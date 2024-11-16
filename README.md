@@ -1,4 +1,5 @@
-This Project contains custom made Models for detecting balls in silo and storage zone made on Roboflow and Trained on Google Colab
+This Project contains custom made Models for detecting balls in silo and storage zone made on Roboflow and Trained on Google Colab 
+Models with more than 95% accuracy
 ## Overview
 
 This project uses resources from the following links:
